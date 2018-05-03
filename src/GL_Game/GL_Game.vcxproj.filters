@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GL_Game.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_Game.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec3.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec3_Inline.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\irrKlang\include\irrKlang.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header FIles">
+      <UniqueIdentifier>{1fed3f75-7b0d-4f15-95a2-0e33046a7754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{71511e17-ec78-4bdc-9927-d0fb526ebef4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
