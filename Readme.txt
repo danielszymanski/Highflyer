@@ -14,9 +14,11 @@ W - przyspiesz
 S - zwolnij
 D - w prawo
 A - w lewo
+
 strza³ka w dó³ - w góre
 strza³ka w góre - w dó³
 myszka - obracanie
+
 l- latarka
 c - turbo
 r - reset
