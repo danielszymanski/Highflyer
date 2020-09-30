@@ -1,25 +1,24 @@
-Nazwa gry: Highflyer
+Game: Highflyer
 
-Techniki:
+Techniques:
 
-- U¿ycie dŸwiêku
-- Menu g³ówne
-- import modeli 3d
+- Sounds
+- Menu
+- 3d models
 - Skybox
-- U¿ywanie czcionek GLUTa
+- GLUT fonts
 
-Sterowanie:
+Controls:
 
-W - przyspiesz
-S - zwolnij
-D - w prawo
-A - w lewo
-strza³ka w dó³ - w góre
-strza³ka w góre - w dó³
-myszka - obracanie
-l- latarka
-c - turbo
+W - acceleration
+S - break
+D - right
+A - left
+down arrow - go up
+up arrow - go down
+
+mouse - rotation
+l - flashlight 
+c - nitro
 r - reset
 f - fullscreen
-
-W grze latamy samolotem nad oceanem i staramy siê w okreœlonym czasie zebraæ wszystkie ¿ó³te obiekty wlatuj¹c w nie. Bia³e obiekty to dodatkowe punkty oraz mo¿liwoœæ jednokrotnego zwiêkszenia szybkoœci na dany czas. Gracz przegrywa jeœli skoñczy mu siê czas lub jeœli zleci za nisko.
